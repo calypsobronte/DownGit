@@ -1,5 +1,7 @@
 # original repository [MinhasKamal/DownGit](https://github.com/MinhasKamal/DownGit)
 
+The **GitDown** site allows you to download the desired folder of a project by simply indicating the url and that's it, it's convenient and easy.
+
 <h1> <img src="https://github.com/MinhasKamal/DownGit/raw/master/res/images/downgit.png" width="20" height=auto /> DownGit </h1>
 
 #### Create GitHub Resource Download Link
